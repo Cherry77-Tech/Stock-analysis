@@ -1,0 +1,2 @@
+model,accuracy,best_params
+Random Forest,0.359375,"{'max_depth': 10, 'min_samples_split': 5, 'n_estimators': 100}"
